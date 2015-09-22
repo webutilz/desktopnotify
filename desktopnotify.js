@@ -189,7 +189,7 @@
         }
         return notificationWrapper;
     }
-    win.notify = {
+    win.desktopnotify = {
         PERMISSION_DEFAULT: PERMISSION_DEFAULT,
         PERMISSION_GRANTED: PERMISSION_GRANTED,
         PERMISSION_DENIED: PERMISSION_DENIED,

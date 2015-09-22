@@ -1,7 +1,6 @@
 {
-  "name": "HTML5-Desktop-Notifications",
-  "version": "1.0.0",
-  "homepage": "https://github.com/ttsvetko/HTML5-Desktop-Notifications",
+  "name": "webutilz-desktopnotify",
+  "homepage": "https://github.com/webutilz/desktopnotify",
   "authors": [
     "Tsvetan Tsvetkov <tsekach@gmail.com>"
   ],

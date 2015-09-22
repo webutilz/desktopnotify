@@ -1,0 +1,6 @@
+{
+  "name": "webutilz/desktopnotify",
+  "webutilz/desktopnotify": {
+    "js": ["desktopnotify.js"]
+  }
+}
