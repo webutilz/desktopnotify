@@ -200,6 +200,6 @@
         requestPermission: requestPermission
     };
     if (isFunction(Object.seal)) {
-        Object.seal(win.notify);
+        Object.seal(win.desktopnotify);
     }
 }(window));
