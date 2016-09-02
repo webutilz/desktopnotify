@@ -113,6 +113,9 @@
                         }
                     }
                 }
+            },
+            getNotification : function(){
+                return notification;
             }
         };
     }
